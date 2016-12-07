@@ -108,24 +108,6 @@ namespace CiclistaConsciente.Core.Droid
 			// aapt resource value: 0x7f040001
 			public const int MvxBindingTagUnique = 2130968577;
 			
-			// aapt resource value: 0x7f040004
-			public const int button1 = 2130968580;
-			
-			// aapt resource value: 0x7f040005
-			public const int button2 = 2130968581;
-			
-			// aapt resource value: 0x7f040006
-			public const int button3 = 2130968582;
-			
-			// aapt resource value: 0x7f040007
-			public const int button4 = 2130968583;
-			
-			// aapt resource value: 0x7f040003
-			public const int imageView1 = 2130968579;
-			
-			// aapt resource value: 0x7f040002
-			public const int textView1 = 2130968578;
-			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

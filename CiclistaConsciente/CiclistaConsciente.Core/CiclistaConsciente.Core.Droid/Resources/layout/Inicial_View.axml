@@ -5,34 +5,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:text="Large Text"
+        android:text="Ciclista Consciente"
         android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView1" />
+        android:layout_height="wrap_content" />
     <ImageView
         android:src="@android:drawable/ic_menu_gallery"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView1" />
+        android:layout_height="wrap_content" />
     <Button
-        android:text="Button"
+        android:text="Leis de Trânsito"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button1" />
+        android:layout_height="wrap_content" />
     <Button
-        android:text="Button"
+        android:text="Quiz"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button2" />
+        android:layout_height="wrap_content" />
     <Button
-        android:text="Button"
+        android:text="Sugestões de percursos"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button3" />
+        android:layout_height="wrap_content" />
     <Button
-        android:text="Button"
+        android:text="Opções"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button4" />
+        android:layout_height="wrap_content" />
 </LinearLayout>
