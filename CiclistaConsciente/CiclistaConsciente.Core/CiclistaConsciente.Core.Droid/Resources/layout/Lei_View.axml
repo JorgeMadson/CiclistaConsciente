@@ -11,4 +11,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tituloLei" />
+    <TextView
+        android:text="Dica flutuante"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dica" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1" />
+    <TextView
+        android:text="Lei em si"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
 </LinearLayout>
