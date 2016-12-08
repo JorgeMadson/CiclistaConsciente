@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Exemplo do site https://mvvmcross.com/docs/the-core-project
 //    namespace TipCalc.Core.Services
@@ -24,6 +20,8 @@ namespace CiclistaConsciente.Core.Metodos
          
         //preciso de um algoritmo para pontuação
         double Pontuacao();
+
+
 
         /////Sendo consciente
         //Mostrando leis para o ciclista

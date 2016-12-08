@@ -108,6 +108,18 @@ namespace CiclistaConsciente.Core.Droid
 			// aapt resource value: 0x7f040001
 			public const int MvxBindingTagUnique = 2130968577;
 			
+			// aapt resource value: 0x7f040002
+			public const int tituloLei = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int tituloOpcao = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int tituloPercurso = 2130968580;
+			
+			// aapt resource value: 0x7f040005
+			public const int tituloQuiz = 2130968581;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -123,6 +135,18 @@ namespace CiclistaConsciente.Core.Droid
 			
 			// aapt resource value: 0x7f030000
 			public const int Inicial_View = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Lei_View = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Opcao_View = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int Percurso_View = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int Quiz_View = 2130903044;
 			
 			static Layout()
 			{
